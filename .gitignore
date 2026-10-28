@@ -1,0 +1,21 @@
+# The public repository must contain academic documents only.
+# Never place or track application source here.
+Lumina/
+Lumina-Source/
+*.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+*.sqlite
+*.sqlite3
+*.db
+*.faiss
+*.index
+__pycache__/
+.venv/
+node_modules/
+.DS_Store
+Thumbs.db
